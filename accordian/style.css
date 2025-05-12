@@ -66,6 +66,7 @@ body {
   flex-direction: column;
   gap: 16px;
 }
+
 .list li {
   color: #adb5bd;
   margin-left: 16px;
